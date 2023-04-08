@@ -1,0 +1,50 @@
+[
+    {
+      "id": 11,
+      "name": "Samurai Girl",
+      "cover": "assets/slike/11.png",
+      "rating": 2.15,
+      "reviews": [ "Predobra fotografija"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Nais at Night",
+      "cover": "assets/slike/17.png",
+      "rating": 1.85,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 13,
+      "name": "The lady on the scooter",
+      "cover": "assets/slike/16.png",
+      "rating": 3.25,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Old blue car",
+      "cover": "assets/slike/18.png",
+      "rating": 4.15,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cute Dog",
+      "cover": "assets/slike/19.png",
+      "rating": 3.45,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Tennis player",
+      "cover": "assets/slike/20.png",
+      "rating": 3.85,
+      "reviews": [
+      ]
+    }
+  ]

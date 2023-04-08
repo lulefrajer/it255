@@ -1,0 +1,27 @@
+<div class="login-container">
+    <!-- <img src="assets/logo1.png" alt="" class="photo"> -->
+    <img src="assets/user1.png" alt="" class="userphoto">
+    <div class="instagram">Instagram: @lulefoto | Contact: +381/ 638 609 046</div>
+
+      <!-- <div class="group">
+        <div class="item" style="--url: url(https://i.pinimg.com/originals/01/03/bb/0103bb58c1b43882e3a1ee68c19d3167.gif)"></div>
+        <div class="item" style="--url: url(https://i.pinimg.com/originals/f3/08/8d/f3088dcee6c2609e5db3a49a1b3b4540.gif)"></div>
+        <div class="item" style="--url: url(https://i.pinimg.com/originals/64/ff/4b/64ff4b40d42b25f1212f2c42ebabbd05.gif)"></div>
+      </div> -->
+
+
+    <div class="login-form">
+        <div class="form-group">
+            <label for="uname">Username</label>
+            <input type="text" name="uname" class="form-control" [(ngModel)]="username" />
+        </div>
+        <div class="form-group">
+            <label for="pword">Password</label>
+            <input type="password" name="pword" class="form-control" [(ngModel)]="password" />
+        </div>
+        <div class="btn-container">
+            <div class="error">{{errorMsg}}</div>
+            <button class="btn btn-dark" (click)="login()">Login</button>
+        </div>
+    </div>
+</div>

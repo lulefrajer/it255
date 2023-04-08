@@ -1,0 +1,100 @@
+.home-container {
+  display: flex;
+  .all-photos {
+    width: 75%;
+    min-height: calc(100vh - 80px);
+    border-right: 1px solid #44444C;
+    padding: 20px 40px;
+    font-family: "Roboto", sans-serif;
+    background: #F0F0F0; 
+  }
+    .top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 15px;
+      h4 {
+        text-transform: uppercase;
+        font-weight: bold;
+        border-left: 5px solid #44444C;
+        padding-left: 10px;
+        color: #333333;
+      }
+      .view-all {
+        color: #44444C;
+        cursor: pointer;
+      }
+    }
+    .photos-thumbnail {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 30px;
+      .photo {
+        .cover {
+          cursor: pointer;
+          img {
+            border-radius: 5px;
+            transition: transform 0.2s ease-in-out;
+          }
+          &:hover img {
+            transform: scale(1.05);
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+          }
+        }
+        .detail {
+          width: 180px;
+          .name {
+            font-weight: bold;
+            height: 50px;
+            margin-top: 5px;
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+  .popular-photos {
+    width: 25%;
+    min-height: calc(100vh - 80px);
+    padding: 20px 40px;
+    font-family: "Roboto", sans-serif;
+    color: black;
+    background-color: #F0F0F0;
+    h4 {
+      text-transform: uppercase;
+      font-weight: bold;
+      border-left: 5px solid #333333;
+      padding-left: 10px;
+      color: #333333;
+    }
+    .photos {
+      .photo {
+        margin-bottom: 20px;
+        margin-top: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .name {
+          font-weight: bold;
+          cursor: pointer;
+        }
+      }
+      .view-all {
+        color: black;
+        text-align: right;
+        margin-top: 20px;
+        cursor: pointer;
+      }
+    }
+  }
+
+.rating {
+  padding-right: 45px;
+  position: relative;
+  .rating-value {
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    font-weight: bold;
+  }
+}

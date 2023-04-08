@@ -1,0 +1,130 @@
+[
+    {
+      "id": 1,
+      "name": "Samurai Girl",
+      "cover": "assets/slike/11.png",
+      "rating": 4.25,
+      "reviews": [
+        {
+          "author": "John",
+          "published_on": "2023-03-18 11:37:19",
+          "review": "Jako dobra fotografija",
+          "rating": 4.5
+        },
+        {
+          "author": "Ivan",
+          "published_on": "2021-10-13 10:16:39",
+          "review": "Nice photo!",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Model",
+      "cover": "assets/slike/7.png",
+      "rating": 4.15,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gut posing",
+      "cover": "assets/slike/8.png",
+      "rating": 4.13,
+      "reviews": [
+        {
+          "author": "Ron Weasley",
+          "published_on": "2021-10-11 11:57:39",
+          "review": "Good but confusing",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Redemption",
+      "cover": "assets/slike/9.png",
+      "rating": 4.12,
+      "reviews": [
+        {
+          "author": "John Kramer",
+          "published_on": "2020-10-23 11:27:39",
+          "review": "Awesome!",
+          "rating": 4.5
+        },
+        {
+          "author": "Granger",
+          "published_on": "2021-10-11 11:27:39",
+          "review": "Very good photo to watch!",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bad Boy",
+      "cover": "assets/slike/10.png",
+      "rating": 4.53,
+      "reviews": [
+        {
+          "author": "Peter Pettigrew",
+          "published_on": "2020-10-13 11:27:39",
+          "review": "Nice graphics!",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sword Girl",
+      "cover": "assets/slike/11.png",
+      "rating": 4.15,
+      "reviews": [
+        {
+          "author": "Sirius Black",
+          "published_on": "2021-10-13 11:37:29",
+          "review": "Lengthy photo",
+          "rating": 3.5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Audi",
+      "cover": "assets/slike/12.png",
+      "rating": 4.35,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Titanic",
+      "cover": "assets/slike/13.png",
+      "rating": 4.15,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Minnie",
+      "cover": "assets/slike/14.png",
+      "rating": 4.22,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Cool car",
+      "cover": "assets/slike/15.png",
+      "rating": 4.45,
+      "reviews": [
+        {
+          "author": "Lilly Potter",
+          "published_on": "2021-10-10 11:27:39",
+          "review": "Awesome photo!",
+          "rating": 4.5
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,56 @@
+[
+    {
+      "id": 17,
+      "name": "Guy reading newspaper",
+      "cover": "assets/slike/1.png",
+      "rating": 3.45,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Tennis player girl",
+      "cover": "assets/slike/2.png",
+      "rating": 2.53,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Muscles flex",
+      "cover": "assets/slike/3.png",     
+      "rating": 3.12,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Instagram Model",
+      "cover": "assets/slike/4.png",
+      "rating": 4.45,
+      "reviews": [
+        {
+          "author": "Viewer 1",
+          "published_on": "2023-03-07 11:27:39",
+          "review": "Awesome photo!",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Audi A5 Back",
+      "cover": "assets/slike/12.png",
+      "rating": 4.12,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Beautiful girl posing",
+      "cover": "assets/slike/6.png",
+      "rating": 4.95,
+      "reviews": [
+      ]
+    }
+  ]
